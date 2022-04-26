@@ -38,8 +38,17 @@
 * Make sure to enter integer values when asked for, and the value of orientation for start should be in degrees.
 * For start and goal positions:
         First, input the x - coordinate and press "Enter" .Followed by inputing the y-coordinate and press "Enter"       
+##### 'VERY IMPORANT NOTE' ########     
 * 'RUN THE PROGRAM FROM START AGAIN, WHEN PROMPTED' (This is to respawn the bot correctly in gazebo, as the start or goal position is in obstacle space) 
 
 * Finding path takes less than 45 seconds for the largest distance.
 
 * To terminate. Press 'Ctrl+Z' on the second window and 'Ctrl+C' on the first window.
+
+########################################################################
+
+
+########## TEST CASE : #################
+* Start position: (1,1) and orientation = 0 degrees
+* Goal Position : (9,9)
+########################################
